@@ -1,0 +1,10 @@
+{
+  "name": "@antimatterium/org-profile",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "verify": "node scripts/verify-antimatterium-org-profile.mjs"
+  }
+}

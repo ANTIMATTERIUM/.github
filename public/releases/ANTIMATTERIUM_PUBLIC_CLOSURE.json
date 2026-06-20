@@ -1,0 +1,42 @@
+{
+  "surface": "ANTIMATTERIUM_ORG_PROFILE_PUBLIC_CLOSURE",
+  "version": "v0.0.1",
+  "organization": "ANTIMATTERIUM",
+  "public_object": {
+    "name": "ANTIMATTERIUM",
+    "type": "bounded antimatter mission-economy object",
+    "core_release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.2-antimatterium-npm-021-publication-receipt",
+    "npm_package": "https://www.npmjs.com/package/@antimatterium/antimatterium",
+    "npm_version": "0.2.1",
+    "npm_install": "npm i @antimatterium/antimatterium",
+    "public_site": "https://antimatterium.github.io/WWW/"
+  },
+  "public_recognition_chain": {
+    "invocorder_profile": "https://github.com/INVOCORDER/INVOCORDER/releases/tag/v2.0.1-antimatterium-evidence-profile",
+    "qvra_lab": "https://github.com/qvra/lab/releases/tag/v0.1.0-qvra-antimatterium-lab-object",
+    "qvra_index": "https://github.com/qvra/index/releases/tag/v0.1.0-qvra-index-antimatterium-runnable-object",
+    "qvra_launch": "https://github.com/qvra/launch/releases/tag/v0.1.0-qvra-launch-antimatterium-runnable-object",
+    "qvra_meta": "https://github.com/qvra/meta/releases/tag/v0.1.0-qvra-meta-antimatterium-recognition",
+    "qvra_profile": "https://github.com/qvra/.github/releases/tag/v0.1.0-qvra-profile-antimatterium-recognition"
+  },
+  "privacy_boundary": {
+    "contains_local_machine_paths": false,
+    "contains_private_folder_inventory": false,
+    "contains_personal_stack_inventory": false,
+    "contains_unrelated_namespace_inventory": false
+  },
+  "claim_boundary": {
+    "claims_current_industrial_antimatter_production": false,
+    "claims_starship_readiness": false,
+    "contains_physical_production_instructions": false,
+    "claims_unverified_external_adoption": false
+  },
+  "completion": {
+    "ANTIMATTERIUM_ORG_PROFILE_BOUND": true,
+    "CORE_RELEASE_BOUND": true,
+    "NPM_PUBLICATION_BOUND": true,
+    "PUBLIC_SITE_BOUND": true,
+    "PUBLIC_RECOGNITION_CHAIN_BOUND": true,
+    "PRIVATE_INFORMATION_EXCLUDED": true
+  }
+}
