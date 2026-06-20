@@ -20,6 +20,8 @@ ANTIMATTERIUM is a public bounded antimatter mission-economy object.
 
 ## Boundary
 
-This organization profile does not include local machine paths, private folder inventories, personal stack inventories, or unrelated namespace inventories.
+This organization profile is limited to public ANTIMATTERIUM release facts.
+
+It excludes non-public machine locations, non-public inventories, personal portfolio mapping, unrelated organization mapping, and unreleased internal work.
 
 This organization profile does not claim current industrial antimatter production, starship readiness, physical production instructions, or unverified external adoption.
