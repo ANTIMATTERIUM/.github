@@ -25,3 +25,45 @@ This organization profile is limited to public ANTIMATTERIUM release facts.
 It excludes non-public machine locations, non-public inventories, personal portfolio mapping, unrelated organization mapping, and unreleased internal work.
 
 This organization profile does not claim current industrial antimatter production, starship readiness, physical production instructions, or unverified external adoption.
+
+<!-- ANTIMATTERIUM_ORG_PROFILE_V003_EXTERNAL_REPLAY_START -->
+
+## External Replay Surface
+
+ANTIMATTERIUM is a public software evidence stack for bounded antimatter mission-cost modeling, deterministic control-plane receipts, runtime admission, and external replay verification.
+
+### Current public closures
+
+| Surface | Release |
+|---|---|
+| Core external replay runner | [v0.2.7](https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.7-antimatterium-external-replay-runner) |
+| Public website projection | [v0.1.5](https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.5-antimatterium-www-external-replay-surface) |
+| Website | [ANTIMATTERIUM WWW](https://antimatterium.github.io/WWW/) |
+| npm package | [@antimatterium/antimatterium](https://www.npmjs.com/package/@antimatterium/antimatterium) |
+
+### Bound identifiers
+
+```text
+CONTROL_DIGEST=e369b24436ca164e186ec38f4223db6a31118bfe049c659c2475f090a19075aa
+RUNTIME_EVENT_ID=f4923422f6f97910816b685376aacf9697222a6c09b1c0cabdb63419c07616d7
+REPLAY_ID=f522d7cd5371b9f18dd9d200578d666d7999d5717f1b5144143a5e4d2afe5171
+NPM_VERSION=0.2.1
+```
+
+### Public artifacts
+
+- [External replay receipt](https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_EXTERNAL_REPLAY_RECEIPT.json)
+- [Control-plane bundle](https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_CONTROL_PLANE_BUNDLE.json)
+- [Runtime event example](https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_RUNTIME_EVENT_EXAMPLE.json)
+- [WWW projection metadata](https://github.com/ANTIMATTERIUM/WWW/blob/main/public/site.json)
+
+### Boundaries
+
+```text
+NO_CURRENT_PRODUCTION_CLAIM=true
+NO_STARSHIP_CLAIM=true
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+NON_PUBLIC_INFORMATION_EXCLUDED=true
+```
+
+<!-- ANTIMATTERIUM_ORG_PROFILE_V003_EXTERNAL_REPLAY_END -->

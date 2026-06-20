@@ -1,0 +1,37 @@
+{
+  "object": "ANTIMATTERIUM_ORG_PROFILE",
+  "surface": "github_org_profile",
+  "release": "v0.0.3-antimatterium-org-profile-external-replay-surface",
+  "org": "ANTIMATTERIUM",
+  "core": {
+    "tag": "v0.2.7-antimatterium-external-replay-runner",
+    "release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.7-antimatterium-external-replay-runner",
+    "control_plane_digest": "e369b24436ca164e186ec38f4223db6a31118bfe049c659c2475f090a19075aa",
+    "runtime_event_id": "f4923422f6f97910816b685376aacf9697222a6c09b1c0cabdb63419c07616d7",
+    "replay_id": "f522d7cd5371b9f18dd9d200578d666d7999d5717f1b5144143a5e4d2afe5171",
+    "replay_receipt": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_EXTERNAL_REPLAY_RECEIPT.json",
+    "control_bundle": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_CONTROL_PLANE_BUNDLE.json",
+    "runtime_event": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_RUNTIME_EVENT_EXAMPLE.json"
+  },
+  "www": {
+    "tag": "v0.1.5-antimatterium-www-external-replay-surface",
+    "release": "https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.5-antimatterium-www-external-replay-surface",
+    "site": "https://antimatterium.github.io/WWW/"
+  },
+  "npm": {
+    "package": "https://www.npmjs.com/package/@antimatterium/antimatterium",
+    "version": "0.2.1"
+  },
+  "release_chain": [
+    "v0.2.7-antimatterium-external-replay-runner",
+    "v0.2.6-antimatterium-runtime-kernel",
+    "v0.2.5-antimatterium-control-plane",
+    "v0.1.5-antimatterium-www-external-replay-surface"
+  ],
+  "boundaries": {
+    "NO_CURRENT_PRODUCTION_CLAIM": true,
+    "NO_STARSHIP_CLAIM": true,
+    "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  }
+}
