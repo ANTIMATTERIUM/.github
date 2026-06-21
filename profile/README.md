@@ -67,3 +67,36 @@ NON_PUBLIC_INFORMATION_EXCLUDED=true
 ```
 
 <!-- ANTIMATTERIUM_ORG_PROFILE_V003_EXTERNAL_REPLAY_END -->
+
+# ANTIMATTERIUM public control surface
+
+ANTIMATTERIUM Core v0.2.10 and npm 0.2.2 are now projected through the organization profile surface.
+
+Public chain:
+
+```text id="h2mpro"
+Core v0.2.10
+WWW v0.1.6
+npm 0.2.2
+Org profile v0.0.4
+````
+
+Run the public verifier:
+
+```bash
+npm i @antimatterium/antimatterium@0.2.2
+npx antimatterium-public-external-verify
+```
+
+Bound identifiers:
+
+```text id="d3fyva"
+WWW_SURFACE_RECEIPT_ID=652a71c7a591d9c99e5781d154f5d3ff7fd5a78ed6d4529e220f50c902adf321
+NPM_RECEIPT_ID=780244fd953ed99fb20cd7cebade4c73b3dc5ade4f070bb37753281c5ca2e7aa
+VERIFIER_ID=59972b8a13e1d1896e76ad44f18a5d5ca58595afd624842d4557f2557a69696b
+AUDIT_ID=fcadd3a654978081f7ab9a4e775d1ee1d4e2960c14a5812cd2c349f862959d30
+CONTROL_DIGEST=bb75f4462f42f37b5fd2faa5d511dd90213df9f60997f16b5875b80a8f99b0b6
+RUNTIME_EVENT_ID=f4923422f6f97910816b685376aacf9697222a6c09b1c0cabdb63419c07616d7
+REPLAY_ID=63a62592964d5c8fe2c23d8be06972eef297446d5708c898868dadae4bb92319
+```
+
