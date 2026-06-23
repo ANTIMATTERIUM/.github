@@ -100,3 +100,19 @@ RUNTIME_EVENT_ID=f4923422f6f97910816b685376aacf9697222a6c09b1c0cabdb63419c07616d
 REPLAY_ID=63a62592964d5c8fe2c23d8be06972eef297446d5708c898868dadae4bb92319
 ```
 
+
+## ANTIMATTERIUM Public Chain OS
+
+The organization profile now binds the Core Public Chain OS and WWW Public Chain OS surface.
+
+```text id="xny17r"
+Core v0.2.11
+WWW v0.1.7
+Org profile v0.0.5
+npm 0.2.2
+```
+
+```text id="pbo6qz"
+CORE_CHAIN_OS_ID=d0f3271f3808297cc8459bc0e19f0df5b5bce60c32bad87c56fb96b7b72cb577
+WWW_CHAIN_OS_SURFACE_ID=15f958d4cc1c6cc8bc279f4c77eb2e2a8fd387b2451c40415703f640d610b404
+```
