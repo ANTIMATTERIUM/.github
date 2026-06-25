@@ -35,3 +35,9 @@ ANTIMATTERIUM_ORG_PROFILE_PUBLIC_STRANGER_CI_BACKLINK_VERIFY_PASS=true
 Org profile v0.0.8 binds CONTROL v0.1.8 public ecosystem closure index.
 
 ANTIMATTERIUM_ORG_PROFILE_PUBLIC_ECOSYSTEM_INDEX_BACKLINK_VERIFY_PASS=true
+
+## Public Rootless Reconstruction Backlink
+
+Org profile v0.0.9 binds CONTROL v0.2.0 public rootless reconstruction index.
+
+ANTIMATTERIUM_ORG_PROFILE_PUBLIC_ROOTLESS_RECONSTRUCTION_BACKLINK_VERIFY_PASS=true
