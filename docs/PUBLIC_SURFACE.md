@@ -20,3 +20,12 @@ Org profile v0.0.6 binds the public CONTROL v0.1.2 CI evidence seal.
 ANTIMATTERIUM_ORG_PROFILE_CONTROL_CI_EVIDENCE_BACKLINK_VERIFY_PASS=true
 ````
 
+
+## Public Stranger CI Backlink
+
+Org profile v0.0.7 binds the live CONTROL v0.1.6 public stranger CI run.
+
+```text id="to4oka"
+ANTIMATTERIUM_ORG_PROFILE_PUBLIC_STRANGER_CI_BACKLINK_VERIFY_PASS=true
+````
+
