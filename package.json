@@ -1,6 +1,6 @@
 {
   "name": "@antimatterium/org-profile",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": true,
   "type": "module",
   "license": "Apache-2.0",
@@ -11,6 +11,7 @@
     "verify:public-chain-os": "node scripts/verify-org-profile-public-chain-os-surface.mjs",
     "verify:control-ci-evidence": "node scripts/verify-org-profile-control-ci-evidence-backlink.mjs",
     "verify:public-stranger-ci": "node scripts/verify-org-profile-public-stranger-ci-backlink.mjs",
-    "verify:ecosystem-index": "node scripts/verify-org-profile-public-ecosystem-index-backlink.mjs"
+    "verify:ecosystem-index": "node scripts/verify-org-profile-public-ecosystem-index-backlink.mjs",
+    "verify:rootless-reconstruction": "node scripts/verify-org-profile-public-rootless-reconstruction-backlink.mjs"
   }
 }
