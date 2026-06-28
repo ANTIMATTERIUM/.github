@@ -34,3 +34,15 @@ npm run verify:rootless-fanout-backpropagation-echo
 Marker:
 
 ANTIMATTERIUM_ORG_PROFILE_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_MEMBER=true
+
+## Rootless Fanout Backpropagation Echo Fanout Closure Backlink
+
+Org profile v0.0.13 binds CONTROL v0.2.4 rootless fanout backpropagation echo fanout closure.
+
+Command:
+
+npm run verify:rootless-fanout-backpropagation-echo-fanout-closure
+
+Marker:
+
+ANTIMATTERIUM_ORG_PROFILE_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_FANOUT_CLOSURE_MEMBER=true
