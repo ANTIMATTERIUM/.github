@@ -17,8 +17,9 @@
     "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-echo": "node scripts/verify-org-profile-rootless-fanout-echo-backlink.mjs",
     "verify:rootless-reconstruction": "node scripts/verify-org-profile-public-rootless-reconstruction-backlink.mjs",
-    "verify:v003": "node scripts/verify-org-profile-v003.mjs"
+    "verify:v003": "node scripts/verify-org-profile-v003.mjs",
+    "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-backlink.mjs"
   },
   "type": "module",
-  "version": "0.0.16"
+  "version": "0.0.17"
 }
