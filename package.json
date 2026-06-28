@@ -1,23 +1,24 @@
 {
-  "name": "@antimatterium/org-profile",
-  "version": "0.0.15",
-  "private": true,
-  "type": "module",
   "license": "Apache-2.0",
+  "name": "@antimatterium/org-profile",
+  "private": true,
   "scripts": {
     "verify": "node scripts/verify-org-profile-v003.mjs && node scripts/verify-org-profile-rootless-fanout-echo-backlink.mjs && node scripts/verify-org-profile-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs && node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs",
-    "verify:v003": "node scripts/verify-org-profile-v003.mjs",
+    "verify:control-ci-evidence": "node scripts/verify-org-profile-control-ci-evidence-backlink.mjs",
+    "verify:ecosystem-index": "node scripts/verify-org-profile-public-ecosystem-index-backlink.mjs",
     "verify:npm-022-surface": "node scripts/verify-org-profile-npm-022-surface.mjs",
     "verify:public-chain-os": "node scripts/verify-org-profile-public-chain-os-surface.mjs",
-    "verify:control-ci-evidence": "node scripts/verify-org-profile-control-ci-evidence-backlink.mjs",
     "verify:public-stranger-ci": "node scripts/verify-org-profile-public-stranger-ci-backlink.mjs",
-    "verify:ecosystem-index": "node scripts/verify-org-profile-public-ecosystem-index-backlink.mjs",
-    "verify:rootless-reconstruction": "node scripts/verify-org-profile-public-rootless-reconstruction-backlink.mjs",
-    "verify:rootless-fanout-echo": "node scripts/verify-org-profile-rootless-fanout-echo-backlink.mjs",
     "verify:rootless-fanout-backlink-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backlink.mjs",
+    "verify:rootless-fanout-backlink-closure-backpropagation-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs",
+    "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-backlink.mjs",
-    "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo-fanout-backlink-closure": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-backlink-closure-backlink.mjs",
-    "verify:rootless-fanout-backlink-closure-backpropagation-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs"
-  }
+    "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs",
+    "verify:rootless-fanout-echo": "node scripts/verify-org-profile-rootless-fanout-echo-backlink.mjs",
+    "verify:rootless-reconstruction": "node scripts/verify-org-profile-public-rootless-reconstruction-backlink.mjs",
+    "verify:v003": "node scripts/verify-org-profile-v003.mjs"
+  },
+  "type": "module",
+  "version": "0.0.16"
 }
