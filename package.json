@@ -17,6 +17,7 @@
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink.mjs",
+    "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo-fanout-backlink-closure": "node scripts/verify-org-profile-rootless-fanout-backpropagation-echo-fanout-backlink-closure-backlink.mjs",
@@ -26,5 +27,5 @@
     "verify:v003": "node scripts/verify-org-profile-v003.mjs"
   },
   "type": "module",
-  "version": "0.0.22"
+  "version": "0.0.23"
 }
