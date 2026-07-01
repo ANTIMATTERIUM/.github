@@ -31,8 +31,10 @@
     "verify:move39-control-v0217-backlink": "node scripts/verify-org-profile-move39-control-v0217-backlink.mjs",
     "test:move39-control-v0217-backlink": "node tests/org-profile-move39-control-v0217-backlink.test.mjs",
     "verify:move41-control-v0218-backlink": "node scripts/verify-org-profile-move41-control-v0218-backlink.mjs",
-    "test:move41-control-v0218-backlink": "node tests/org-profile-move41-control-v0218-backlink.test.mjs"
+    "test:move41-control-v0218-backlink": "node tests/org-profile-move41-control-v0218-backlink.test.mjs",
+    "verify:move43-control-v0219-backlink": "node scripts/verify-org-profile-move43-control-v0219-backlink.mjs",
+    "test:move43-control-v0219-backlink": "node tests/org-profile-move43-control-v0219-backlink.test.mjs"
   },
   "type": "module",
-  "version": "0.0.27"
+  "version": "0.0.28"
 }

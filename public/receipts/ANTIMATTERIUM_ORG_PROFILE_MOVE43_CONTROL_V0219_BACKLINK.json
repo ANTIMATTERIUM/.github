@@ -1,0 +1,26 @@
+{
+  "ORG_PROFILE_MOVE43_CONTROL_V0219_BACKLINK_ID": "87276a767baa71208d5f2ad2623f306d007f90c4f83fa50725d31f321b32b2c8",
+  "backlink_id": "87276a767baa71208d5f2ad2623f306d007f90c4f83fa50725d31f321b32b2c8",
+  "control_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28525061736",
+  "control_closure_id": "9ae0cf352d7062356e02b964d517a9321f0c0743d2eba695fb0d6adc6a702f08",
+  "control_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.19-antimatterium-control-move41-surface-closure",
+  "control_tag": "v0.2.19-antimatterium-control-move41-surface-closure",
+  "control_version": "0.2.19",
+  "move": 43,
+  "no_current_production_claim": true,
+  "no_local_root_required": true,
+  "no_physical_production_instructions": true,
+  "no_starship_claim": true,
+  "package_name": "@antimatterium/org-profile",
+  "package_version": "0.0.28",
+  "schema": "antimatterium.org_profile.move43_control_v0219_surface_backlink.v1",
+  "short_public_tag_required": true,
+  "surface": "Org profile",
+  "surface_slug": "move43-control-v0219-backlink",
+  "verification": {
+    "command": "npm run verify:move43-control-v0219-backlink",
+    "control_member_flag": "ANTIMATTERIUM_ORG_PROFILE_CONTROL_V0219_MEMBER",
+    "control_release_bound_flag": "ANTIMATTERIUM_ORG_PROFILE_CONTROL_V0219_RELEASE_BOUND",
+    "verify_flag": "ANTIMATTERIUM_ORG_PROFILE_MOVE43_CONTROL_V0219_BACKLINK_VERIFY_PASS"
+  }
+}
