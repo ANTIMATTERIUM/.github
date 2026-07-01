@@ -27,8 +27,10 @@
     "verify:rootless-reconstruction": "node scripts/verify-org-profile-public-rootless-reconstruction-backlink.mjs",
     "verify:v003": "node scripts/verify-org-profile-v003.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink": "node scripts/verify-org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink.mjs",
-    "test:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink": "node tests/org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink.test.mjs"
+    "test:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink": "node tests/org-profile-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink.test.mjs",
+    "verify:move39-control-v0217-backlink": "node scripts/verify-org-profile-move39-control-v0217-backlink.mjs",
+    "test:move39-control-v0217-backlink": "node tests/org-profile-move39-control-v0217-backlink.test.mjs"
   },
   "type": "module",
-  "version": "0.0.25"
+  "version": "0.0.26"
 }
