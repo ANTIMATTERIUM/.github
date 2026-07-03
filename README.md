@@ -346,3 +346,21 @@ ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
 NO_CURRENT_PRODUCTION_CLAIM=true  
 NO_STARSHIP_CLAIM=true  
 NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+<!-- ANTIMATTERIUM_MOVE55_CONTROL_V0225_BACKLINK:ORG_PROFILE -->
+## Move 55 CONTROL v0.2.25 backlink
+
+This public surface binds CONTROL v0.2.25 as the latest public surface fanout closure.
+
+- Surface: Org profile
+- Surface version: 0.0.34
+- Surface tag: `v0.0.34-antimatterium-org-profile-control-v0225-backlink`
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.25-antimatterium-control-move53-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28679307644
+- CONTROL closure ID: `99efa1a97857babbe872e4e126114afc3d119cde359968ba62602c99b46cba08`
+- Backlink ID: `b11e8e8c9c1232e769c7f4ed358871c845732f7e3893af80b967864cf235ffe8`
+- Short public tag required: true
+- No local root required: true
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
