@@ -420,3 +420,22 @@ ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
 NO_CURRENT_PRODUCTION_CLAIM=true  
 NO_STARSHIP_CLAIM=true  
 NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+<!-- ANTIMATTERIUM_ORG_PROFILE_MOVE63_CONTROL_V0229_BACKLINK -->
+## Move 63 — Org profile binds CONTROL v0.2.29
+
+Org profile binds the CONTROL v0.2.29 public closure for the Move 61 surface fanout.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.29-antimatterium-control-move61-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28706590644
+- CONTROL closure ID: `cc3254bf684790e5b5e88b947b35ef1ff5796cba9dcf827234ec08114d40d67c`
+- Surface tag: `v0.0.38-antimatterium-org-profile-control-v0229-backlink`
+- Backlink ID: `f2119453983e2812b87c9b0821d8fd71ca728f8d1007039e83dd1fb5b20d51d4`
+- Receipt: `public/receipts/ANTIMATTERIUM_ORG_PROFILE_MOVE63_CONTROL_V0229_BACKLINK.json`
+- Verifier: `scripts/verify-org-profile-move63-control-v0229-backlink.mjs`
+
+ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true  
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true  
+NO_CURRENT_PRODUCTION_CLAIM=true  
+NO_STARSHIP_CLAIM=true  
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
