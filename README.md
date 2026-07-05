@@ -473,3 +473,18 @@ Org profile binds the CONTROL v0.2.31 public closure for the Move 65 surface fan
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+## Move 69 — Org profile binds CONTROL v0.2.32
+
+Org profile binds the CONTROL v0.2.32 public closure for the Move 67 surface fanout.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.32-antimatterium-control-move67-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28747392917
+- CONTROL closure ID: 26f9d60e76939e16c27da34d345686d37fad0a0caa1cd097673f1dc1c9d5210f
+- Surface release: https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.41-antimatterium-org-profile-control-v0232-backlink
+- Backlink ID: 0bd3fcadae438a38c32aa9bcb06dfbb3ce8a37e85ee13b3ad15f831d4d5cccb9
+- ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true
+- ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
