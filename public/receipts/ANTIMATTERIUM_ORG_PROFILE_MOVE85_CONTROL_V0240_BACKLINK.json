@@ -1,0 +1,26 @@
+{
+  "backlink_id": "ef767654bc0f6b7282a8367af9a048dea131d12247c15ea39edc283631bbed07",
+  "branch": "antimatterium-org-profile-v0049-control-v0240-backlink",
+  "claims": {
+    "no_current_production_claim": true,
+    "no_local_root_required": true,
+    "no_physical_production_instructions": true,
+    "no_starship_claim": true,
+    "short_public_tag_required": true
+  },
+  "control": {
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28898964616",
+    "closure_id": "1a3a6df58737e675958e870bd28b4f318b5e458e8dec6354bb76a45cf633633a",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.40-antimatterium-control-move83-surface-closure",
+    "tag": "v0.2.40-antimatterium-control-move83-surface-closure",
+    "version": "0.2.40"
+  },
+  "move": 85,
+  "package": "@antimatterium/org-profile",
+  "release": "https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.49-antimatterium-org-profile-control-v0240-backlink",
+  "repository": "ANTIMATTERIUM/.github",
+  "schema": "antimatterium.surface.control_backlink.receipt.v1",
+  "surface": "Org profile",
+  "tag": "v0.0.49-antimatterium-org-profile-control-v0240-backlink",
+  "version": "0.0.49"
+}
