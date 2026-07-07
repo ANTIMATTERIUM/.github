@@ -579,3 +579,18 @@ Org profile 0.0.47 binds a public backlink to CONTROL v0.2.37.
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+## Move 83 — CONTROL v0.2.39 backlink
+
+Org profile binds the CONTROL v0.2.39 public closure as a replayable public backlink.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.39-antimatterium-control-move81-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28896213832
+- CONTROL closure ID: cff80893bd06f2d1eb219912df96c6f552732a514f2815dc2d348cb5ed24f556
+- Surface release: https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.48-antimatterium-org-profile-control-v0239-backlink
+- Surface backlink ID: 07389863553ef6f06301e7ccbc5678c265067f59a0d5b40cd0d956a42f47e444
+- ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true
+- ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
