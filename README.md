@@ -719,3 +719,19 @@ Org profile binds CONTROL v0.2.47 as a public backlink.
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+
+## Move 101 — Org profile CONTROL v0.2.48 backlink
+
+Org profile binds CONTROL v0.2.48 as a public surface backlink.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.48-antimatterium-control-move99-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29122920642
+- CONTROL closure ID: 5b65cc86664000ddedcd539e13ad893e6c88e8912f5785a0163c408bb1624132
+- Org profile package: @antimatterium/org-profile@0.0.57
+- Move 101 backlink ID: 29e68dcf4d7f831822f5313b6d5b3aebd803dd00b90563b06006363928db4187
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
