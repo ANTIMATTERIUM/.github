@@ -1,0 +1,36 @@
+{
+  "protocol": "ANTIMATTERIUM_ORG_PROFILE_MOVE107_CONTROL_V0251_BACKLINK",
+  "move": 107,
+  "surface": "Org profile",
+  "package": {
+    "name": "@antimatterium/org-profile",
+    "version": "0.0.60",
+    "release_tag": "v0.0.60-antimatterium-org-profile-control-v0251-backlink"
+  },
+  "bound_control": {
+    "version": "0.2.51",
+    "release_tag": "v0.2.51-antimatterium-control-move105-surface-closure",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.51-antimatterium-control-move105-surface-closure",
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29152869204",
+    "main_sha": "05be850cd6ee4e1f71dc643859b3ec1e531e05af",
+    "closure_id": "88760f9d9c0dc29d456878503895c5c47bbc5c0a42d33d5050b6fbb95bd1bd2b"
+  },
+  "membership": {
+    "control_v0251_release_bound": true,
+    "control_v0251_member": true,
+    "move106_closure_bound": true
+  },
+  "constraints": {
+    "short_public_tag_required": true,
+    "no_local_root_required": true,
+    "no_current_production_claim": true,
+    "no_starship_claim": true,
+    "no_physical_production_instructions": true
+  },
+  "backlink": {
+    "id": "67c60e824889be73002b529048bb530363c0923004b4d3debf6db0518e9880ba",
+    "kind": "move107_org_profile_control_v0251_backlink",
+    "replayable_without_local_root": true,
+    "public_release_bound": true
+  }
+}
