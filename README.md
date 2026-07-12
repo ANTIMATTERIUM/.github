@@ -849,3 +849,20 @@ Org profile 0.0.63 binds the CONTROL v0.2.54 public closure.
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+
+## Move 115 — CONTROL 0.2.55 backlink
+
+Org profile 0.0.64 binds to CONTROL 0.2.55.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.55-antimatterium-control-move113-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29194891663
+- CONTROL main SHA: f579904b1e8ce500661393d25b9016fa7b58bec1
+- CONTROL closure ID: cac92a90fe4ba3a089dda110d5d929814d5fae242961cae18e1ada9cf733e7ab
+- Org profile release: https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.64-antimatterium-org-profile-control-v0255-backlink
+- Org profile backlink ID: 10252b4d19d3477e3ff415f43a942ec764c78d1da0775f643e55327d0b46ec52
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
