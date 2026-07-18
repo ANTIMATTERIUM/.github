@@ -1111,3 +1111,30 @@ Boundary:
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+## Move 137 — Org profile binds CONTROL v0.2.66
+
+This public surface binds the CONTROL v0.2.66 closure authority.
+
+Authority:
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.66-antimatterium-control-move135-surface-closure
+- Verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29578377132
+- Main SHA: 857f266bfa84b652e96de28e93e288667d379013
+- Closure ID: 383ec0b39d241554ed32fce6765cf5c511d4e08e77fe125b309c1cd559dd71c3
+
+Surface release:
+
+- https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.75-antimatterium-org-profile-control-v0266-backlink
+
+Backlink ID:
+
+- 8be404a6ff387e6c597ad97b20315f190b758fe5e3c1cbb9a29933779eb1795b
+
+Boundary:
+
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
