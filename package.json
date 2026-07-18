@@ -131,8 +131,10 @@
     "verify:move139-control-v0267-backlink": "node scripts/verify-org-profile-move139-control-v0267-backlink.mjs",
     "test:move139-control-v0267-backlink": "node --test tests/org-profile-move139-control-v0267-backlink.test.mjs",
     "verify:move141-control-v0268-backlink": "node scripts/verify-org-profile-move141-control-v0268-backlink.mjs",
-    "test:move141-control-v0268-backlink": "node --test tests/org-profile-move141-control-v0268-backlink.test.mjs"
+    "test:move141-control-v0268-backlink": "node --test tests/org-profile-move141-control-v0268-backlink.test.mjs",
+    "verify:move143-control-v0269-backlink": "node scripts/verify-org-profile-move143-control-v0269-backlink.mjs",
+    "test:move143-control-v0269-backlink": "node --test tests/org-profile-move143-control-v0269-backlink.test.mjs"
   },
   "type": "module",
-  "version": "0.0.77"
+  "version": "0.0.78"
 }
